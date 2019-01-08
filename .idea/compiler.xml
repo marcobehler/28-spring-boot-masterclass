@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="28-spring-boot-masterclass" />
+        <module name="springboot-masterclass" />
       </profile>
     </annotationProcessing>
   </component>
